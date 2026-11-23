@@ -20,6 +20,9 @@ public class ModModelProvider extends FabricModelProvider {
     @Override
     public void generateItemModels(ItemModelGenerators itemModelGenerators) {
         itemModelGenerators.generateFlatItem(Moditems.spawner_scrap, ModelTemplates.FLAT_ITEM);
+        itemModelGenerators.generateFlatItem(Moditems.fausteel_nugget, ModelTemplates.FLAT_ITEM);
+        itemModelGenerators.generateFlatItem(Moditems.fausteel_ingot, ModelTemplates.FLAT_ITEM);
+        itemModelGenerators.generateFlatItem(Moditems.fausteel_blade, ModelTemplates.FLAT_ITEM);
 
     }
 }

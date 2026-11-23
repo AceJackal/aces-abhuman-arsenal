@@ -1,3 +1,9 @@
 // 26.1.2	-999999999-01-01T00:00:00	aces abhuman arsenal/Model Definitions
+2f9a7a04ec107d0e16c5d6c98a9c459f4a09f6f7 assets/aces-abhuman-arsenal/items/fausteel_blade.json
+808e7c9bc15479be1e741a2dd7d3303f91cdbc0f assets/aces-abhuman-arsenal/items/fausteel_ingot.json
+94913fb0dd54b259ac8449cebfc71defcd8be843 assets/aces-abhuman-arsenal/items/fausteel_nugget.json
 d977af382b7b389862c933bda818017abd10b385 assets/aces-abhuman-arsenal/items/spawner_scrap.json
+35443cf8b65fe1f1494f928c36087be63e8200fc assets/aces-abhuman-arsenal/models/item/fausteel_blade.json
+5542c4eed6bf4929dbd1939813f784566672d420 assets/aces-abhuman-arsenal/models/item/fausteel_ingot.json
+688c5a3c43d0f927e82e6efb180be3b8dcfc9b62 assets/aces-abhuman-arsenal/models/item/fausteel_nugget.json
 3671c9d7611c06f6776bfd9083a494944e20c923 assets/aces-abhuman-arsenal/models/item/spawner_scrap.json

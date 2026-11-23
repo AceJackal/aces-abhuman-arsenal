@@ -15,6 +15,9 @@ import java.util.function.Function;
 
 public class Moditems {
     public static final Item spawner_scrap = registerItem("spawner_scrap", Item::new);
+    public static final Item fausteel_nugget = registerItem("fausteel_nugget", Item::new);
+    public static final Item fausteel_ingot = registerItem("fausteel_ingot", Item::new);
+    public static final Item fausteel_blade = registerItem("fausteel_blade", Item::new);
 
 
 
@@ -29,6 +32,9 @@ public class Moditems {
 
         CreativeModeTabEvents.modifyOutputEvent(CreativeModeTabs.INGREDIENTS).register(output -> {
             output.accept(spawner_scrap);
+            output.accept(fausteel_nugget);
+            output.accept(fausteel_ingot);
+            output.accept(fausteel_blade);
         });
     }
 }
