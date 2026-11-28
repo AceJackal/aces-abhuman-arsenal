@@ -2,5 +2,7 @@
   "item.aces-abhuman-arsenal.spawner_scrap": "Spawner Scrap",
   "item.aces-abhuman-arsenal.fausteel_nugget": "Fausteel Nugget",
   "item.aces-abhuman-arsenal.fausteel_ingot": "Fausteel Ingot",
-  "item.aces-abhuman-arsenal.fausteel_blade": "Fausteel Blade"
+  "item.aces-abhuman-arsenal.fausteel_blade": "Fausteel Blade",
+  "creativeModeTab.acesabhumanarsenal.fausteel_items": "Ace's Artificer Items",
+  "creativeModeTab.acesabhumanarsenal.fausteel_blocks": "Ace's Artificer Blocks"
 }
